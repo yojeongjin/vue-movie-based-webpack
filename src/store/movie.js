@@ -1,5 +1,5 @@
 import axios from 'axios'
-import _uniqBy from 'lodash-es/uniqBy'
+import _uniqBy from 'lodash/uniqBy'
 
 export default {
   namespaced: true,
